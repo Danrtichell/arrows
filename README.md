@@ -1,4 +1,4 @@
 arrows
 ======
 
-Analytical Real-Time Resources Organizational Web Based Solutions
+Analytical Real-Time Resources Organizational Web Based Solution
